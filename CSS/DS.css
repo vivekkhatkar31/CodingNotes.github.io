@@ -153,4 +153,7 @@ html{
 .container{
     width: 60%;
 }
+.heading{
+       font-family: 'Ubuntu', sans-serif; 
+}
 }
